@@ -1,7 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # Whatsapp Bot Hosting
- > **Note**:  Ini adalah example base autoreply mywabot hosting
- kalau rame dipublik :v
+ > **Note**:  Build with GoLang x WaSocket
  
  <p align="center">
  
@@ -12,5 +11,3 @@
 </p>
 
 
- # LIST FUNCTION
- - Send Text
